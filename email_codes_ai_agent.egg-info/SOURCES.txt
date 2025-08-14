@@ -1,0 +1,10 @@
+pyproject.toml
+backend/__init__.py
+backend/agent/__init__.py
+backend/agent/llm.py
+backend/agent/tools.py
+email_codes_ai_agent.egg-info/PKG-INFO
+email_codes_ai_agent.egg-info/SOURCES.txt
+email_codes_ai_agent.egg-info/dependency_links.txt
+email_codes_ai_agent.egg-info/requires.txt
+email_codes_ai_agent.egg-info/top_level.txt

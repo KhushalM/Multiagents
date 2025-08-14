@@ -1,0 +1,20 @@
+#Ignore necessary large files
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+*.pyzw
+*.pyzwz
+#Ignore dev containers
+.devcontainer/
+#Ignore vscode
+.vscode/
+#Ignore .env
+.env
+#Ignore .DS_Store
+.DS_Store
+#Ignore .gitignore
