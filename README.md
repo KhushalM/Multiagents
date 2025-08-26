@@ -43,8 +43,6 @@ This repository serves as a lightweight playground to explore orchestration patt
 2. **Set environment variables**
    ```bash
    export OPENAI_API_KEY=...       # or your chosen LLM provider key
-   export TAVILY_API_KEY=...       # if using web search tools
-   export LANGCHAIN_TRACING_V2="false"
    ```
 
 3. **Run an example agent (local script)**
@@ -107,8 +105,3 @@ This repository serves as a lightweight playground to explore orchestration patt
 - Experiment with local LLMs and retrieval stores.  
 - Multi-agent comparisons (planner / worker / critic) across frameworks.  
 
----
-
-## License
-
-MIT License (see `LICENSE`).
